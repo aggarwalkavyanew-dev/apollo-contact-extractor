@@ -1,0 +1,4 @@
+input_linkedin_url,first_name,last_name,job_title,company_name,company_website,industry,verified_email,verified_mobile_phone,linkedin_url,apollo_person_id,lookup_used,apollo_error
+https://www.linkedin.com/in/sundar-pichai-a477022/,,,,,,,,,,,,MATCH API error: 401 Client Error: Unauthorized for url: https://api.apollo.io/v1/people/match
+https://www.linkedin.com/in/satyanadella/,,,,,,,,,,,,MATCH API error: 401 Client Error: Unauthorized for url: https://api.apollo.io/v1/people/match
+https://www.linkedin.com/in/no-such-person-exists-12345/,,,,,,,,,,,,MATCH API error: 401 Client Error: Unauthorized for url: https://api.apollo.io/v1/people/match
